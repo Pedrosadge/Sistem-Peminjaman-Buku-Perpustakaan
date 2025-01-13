@@ -1,1 +1,2 @@
 # Sistem-Peminjaman-Buku-Perpustakaan
+Sistem Peminjaman Buku merupakan aplikasi berbasis teknologi informasi yang dirancang untuk mempermudah manajemen peminjaman buku di perpustakaan. Sistem ini mendukung pengelolaan data peminjam, pencatatan buku yang dipinjam, serta pengaturan tanggal peminjaman dan pengembalian secara efisien. Dengan adanya sistem ini, perpustakaan dapat meningkatkan efisiensi operasional, mengurangi kesalahan, dan memberikan layanan yang lebih optimal kepada pengunjung.
