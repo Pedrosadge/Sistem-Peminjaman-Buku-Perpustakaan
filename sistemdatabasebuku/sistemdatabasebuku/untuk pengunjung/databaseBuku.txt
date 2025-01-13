@@ -1,0 +1,62 @@
+=
+The Pragmatic Programmer
+From Journeyman to Master
+Andrew Hunt and David Thomas
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+Clean Code
+A Handbook of Agile Software Craftsmanship
+Robert C. Martin
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+The Lean Startup
+How Today's Entrepreneurs Use Continuous Innovation 
+to Create Radically Successful Businesses
+Eric Ries
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+Zero to One
+Notes on Startups, or How to Build the Future
+Peter Thiel and Blake Masters
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+The Phoenix Project
+A Novel About IT, DevOps, and Helping Your Business Win
+Gene Kim, Kevin Behr, George Spafford
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+Code Complete
+A Practical Handbook of Software Construction
+Steve McConnell
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+The Mythical Man-Month
+Essays on Software Engineering
+Frederick P. Brooks Jr.
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+Don't Make Me Think, Revisited
+A Common Sense Approach to Web Usability
+Steve Krug
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+Structure and Interpretation of Computer Programs
+.
+Harold Abelson and Gerald Jay Sussman
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
+Design Patterns
+Elements of Reusable Object-Oriented Software
+Erich Gamma, Richard Helm, et al.
+info lebih lanjut tentang buku tersebut...
+status: bisa dipinjam
+=
